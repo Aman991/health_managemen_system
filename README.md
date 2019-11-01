@@ -1,4 +1,4 @@
-# health_managemen_system
+# health_management_system
 I have wriitten code for  health management system 
 # health managment system make by Aman991
 n1 = 'harry'
